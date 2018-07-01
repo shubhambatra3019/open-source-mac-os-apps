@@ -420,6 +420,7 @@ You can see in which language an app is written. Curently there are following la
 
 ### Productivity
 
+- [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing or removing unnecessary files. ![SwiftIcon]
 - [ClipMenu](https://github.com/naotaka/ClipMenu) - Clipboard manager for macOS. ![ObjectiveCIcon]
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free macOS productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon]
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon]
